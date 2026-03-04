@@ -30,6 +30,6 @@
 
 <br/><br/>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyewon"/>
 
 </div>
